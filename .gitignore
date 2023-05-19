@@ -1,3 +1,4 @@
 .vscode/
 rbtree_test
 *.txt
+test/
